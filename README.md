@@ -1,7 +1,4 @@
-🌐 Portfolio - Week 4 (Tailwind CSS)
-
-This project is a landing page developed as part of **Week 4** of the training track from the **Project Management Directorate (DPJ) - byron.solutions**.  
-The page presents the portfolio of **Rafaela Pereira**, a Computer Engineering student at UNIFEI, focused on visual design, responsive layout, and utility-first styling using Tailwind CSS.
+🌐 Portfolio - Treinee - Week 4 (Tailwind CSS)
 
 ---
 
