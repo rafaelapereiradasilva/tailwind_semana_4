@@ -1,1 +1,16 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Comic+Relief:wght@400;700&display=swap');
 @import "tailwindcss";
+
+@theme {
+    /*--color-principal: #4287f5;
+    --color-white: #b3c6e6;
+    --font-comic: "Comic Relief", system-ui;*/
+    --color-main: #499ce4;
+	--color-secondary: #499ce4;
+	--color-black: #13181a;
+	--color-white: #f8f8f8;
+	--color-gray: #546066;
+
+	--font-main: 'Albert Sans', sans-serif;
+}
